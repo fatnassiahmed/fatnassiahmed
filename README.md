@@ -1,5 +1,5 @@
 # 💫 About Me:
-<small> 👋 About Me<br><br>Hey! I’m **Ahmed**, a **Software Engineer** with **6+ years of experience** working with **Java, Spring Boot, and Angular**.<br><br>I enjoy building **clean, scalable backend systems** and integrating them with modern frontends. I’ve worked on **microservice-based applications**, REST APIs, and CI/CD pipelines, mainly within **banking and insurance environments**.<br><br>I like working end-to-end on projects, collaborating with stakeholders, and turning complex business needs into reliable software solutions.</small>
+<small> 👋 About Me<br><br>Hey! I’m **Ahmed**, a **Software Engineer** with **6 years of experience** working with **Java, Spring Boot, and Angular**.<br><br>I enjoy building **clean, scalable backend systems** and integrating them with modern frontends. I’ve worked on **microservice-based applications**, REST APIs, and CI/CD pipelines, mainly within **banking and insurance environments**.<br><br>I like working end-to-end on projects, collaborating with stakeholders, and turning complex business needs into reliable software solutions.</small>
 
 
 ## 🌐 Socials:
